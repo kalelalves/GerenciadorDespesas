@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iJ+pDaqNE1k3zvYXwkXmXb1eRJNJV2AGh9B+BL79By/8x4Wwj5dhgCDC9y68ZKKd+7dgKqYKIwqFNCscXq6eJA==",
+  "dgSpecHash": "yZeVjxlr9+Usoy0A02W3b0oIQRaixo2uxdcIF98sez+hP/Ir9CxL+HGM9ncNa38UQRdLVjLF9+ksH3oA7eMk0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\kalel\\source\\repos\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
   "expectedPackageFiles": [
@@ -54,13 +54,13 @@
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.localization.routing\\2.1.1\\microsoft.aspnetcore.localization.routing.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\2.1.1\\microsoft.aspnetcore.middlewareanalysis.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc\\2.1.1\\microsoft.aspnetcore.mvc.2.1.1.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.1\\microsoft.aspnetcore.mvc.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.2\\microsoft.aspnetcore.mvc.abstractions.2.1.2.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.analyzers\\2.1.1\\microsoft.aspnetcore.mvc.analyzers.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.apiexplorer\\2.1.1\\microsoft.aspnetcore.mvc.apiexplorer.2.1.1.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.1\\microsoft.aspnetcore.mvc.core.2.1.1.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.2\\microsoft.aspnetcore.mvc.core.2.1.2.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.cors\\2.1.1\\microsoft.aspnetcore.mvc.cors.2.1.1.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.1.1\\microsoft.aspnetcore.mvc.dataannotations.2.1.1.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.1.1\\microsoft.aspnetcore.mvc.formatters.json.2.1.1.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.1.2\\microsoft.aspnetcore.mvc.dataannotations.2.1.2.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.1.2\\microsoft.aspnetcore.mvc.formatters.json.2.1.2.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.xml\\2.1.1\\microsoft.aspnetcore.mvc.formatters.xml.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.localization\\2.1.1\\microsoft.aspnetcore.mvc.localization.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor\\2.1.1\\microsoft.aspnetcore.mvc.razor.2.1.1.nupkg.sha512",
@@ -68,7 +68,7 @@
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.viewcompilation\\2.1.1\\microsoft.aspnetcore.mvc.razor.viewcompilation.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.razorpages\\2.1.1\\microsoft.aspnetcore.mvc.razorpages.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.taghelpers\\2.1.1\\microsoft.aspnetcore.mvc.taghelpers.2.1.1.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.1.1\\microsoft.aspnetcore.mvc.viewfeatures.2.1.1.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.1.2\\microsoft.aspnetcore.mvc.viewfeatures.2.1.2.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\2.1.1\\microsoft.aspnetcore.nodeservices.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.owin\\2.1.1\\microsoft.aspnetcore.owin.2.1.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.1.1\\microsoft.aspnetcore.razor.2.1.1.nupkg.sha512",
@@ -223,7 +223,7 @@
     "C:\\Users\\kalel\\.nuget\\packages\\system.io.pipelines\\4.5.0\\system.io.pipelines.4.5.0.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\system.linq.queryable\\4.3.0\\system.linq.queryable.4.3.0.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
@@ -280,7 +280,9 @@
     "C:\\Users\\kalel\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\kalel\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\kalel\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\kalel\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\x.pagedlist\\7.6.0\\x.pagedlist.7.6.0.nupkg.sha512",
+    "C:\\Users\\kalel\\.nuget\\packages\\x.pagedlist.mvc.core\\7.6.0\\x.pagedlist.mvc.core.7.6.0.nupkg.sha512"
   ],
   "logs": []
 }
