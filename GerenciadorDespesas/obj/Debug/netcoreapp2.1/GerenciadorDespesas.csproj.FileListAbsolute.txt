@@ -1,0 +1,6 @@
+C:\Users\kalel\source\repos\GerenciadorDespesas\GerenciadorDespesas\obj\Debug\netcoreapp2.1\GerenciadorDespesas.csprojAssemblyReference.cache
+C:\Users\kalel\source\repos\GerenciadorDespesas\GerenciadorDespesas\obj\Debug\netcoreapp2.1\GerenciadorDespesas.AssemblyInfoInputs.cache
+C:\Users\kalel\source\repos\GerenciadorDespesas\GerenciadorDespesas\obj\Debug\netcoreapp2.1\GerenciadorDespesas.AssemblyInfo.cs
+C:\Users\kalel\source\repos\GerenciadorDespesas\GerenciadorDespesas\obj\Debug\netcoreapp2.1\GerenciadorDespesas.csproj.CoreCompileInputs.cache
+C:\Users\kalel\source\repos\GerenciadorDespesas\GerenciadorDespesas\obj\Debug\netcoreapp2.1\GerenciadorDespesas.RazorAssemblyInfo.cache
+C:\Users\kalel\source\repos\GerenciadorDespesas\GerenciadorDespesas\obj\Debug\netcoreapp2.1\GerenciadorDespesas.RazorAssemblyInfo.cs
